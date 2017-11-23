@@ -1,0 +1,2 @@
+# FAIR
+binarization algorithm
